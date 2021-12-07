@@ -1,4 +1,4 @@
-Algoritmo "calcular media"
+Algoritmo "calcular média"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Rubem Oliota 
 // Descrição   : capturar nome e notas do aluno para calcular media e ifnromar a situação
