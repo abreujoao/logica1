@@ -1,0 +1,29 @@
+3 - 
+( Variáveis, captura de dados, operadores matemáticos ) 
+Obter 2 números do usuário e realizar 4 operações matemáticas com esses números
+cada operação realizada deve ser escrita em tela como se explicasse o calculo (ex   nA=1  e nB=3 )
+1 + 3 = 4
+---------------------------------------------------------------------------------------------------------------------------
+
+4-
+( Variáveis, captura de dados, operadores matemáticos,condicional SE ) 
+Obter do usuário o nome dele e ao capturar as 3 notas incluir o nome dele nas capturas de nota (ex  informe a nota do aluno XXXX)
+Realizar o calculo de média
+Escrever em tela uma frase que contenha o nome do aluno a media e a sua situação  
+(Reprovado menor que 7)
+(Aprovado se maior ou igual a 7)
+---------------------------------------------------------------------------------------------------------------------------
+5-
+(variáveis, captura de dados, condicional ESCOLHA)
+Obter o nome do usuario e a sua preferencia de estação do ano
+exibir em tela as opções e para cada uma das opções escrever uma frase sobre a escolha dele
+importante : tratar o caso onde o usuario nao escolhe uma das opções planejadas
+
+6-
+(variáveis, captura de dados, operadores matemáticos, condicional ESCOLHA)
+
+copiar o algoritmo do exercicio 3 e fazer uma melhoria incluindo o ESCOLHA
+no momento todas as operacoes são executadas sem criterio
+
+agora deve perguntar ao usuario qual ele quer fazer e capturar os numeros e so fazer aquela opcao 
+importante : tratar o caso onde o usuario nao escolhe uma das opções planejadas
